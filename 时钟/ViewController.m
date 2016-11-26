@@ -32,8 +32,7 @@
     UITabBarItem*item = [UITabBarItem appearance];
   
     
-    // Do any additional setup after loading the view, typically from a nib.
-    
+       
 //    UIImageView  *viewI=[[UIImageView alloc] init];
 //    [viewI setImage:[UIImage imageNamed:@"钟表"]];
 //    viewI.bounds=self.clockView.bounds;
